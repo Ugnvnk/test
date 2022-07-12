@@ -1,4 +1,3 @@
-laptop_update_2022
 laptop_update_2021
 123
 to github1
@@ -8,3 +7,4 @@ wery4y
 to git2
 
 new branch line
+new line for gui
